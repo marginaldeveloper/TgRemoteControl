@@ -15,7 +15,7 @@ import wavio
 from screeninfo import get_monitors as screeninfo
 import urllib.request
 my_id = Введи свой айди, блядь
-bot = telebot.TeleBot('Вставь в меня с-свой б-большой т-токен')
+bot = telebot.TeleBot('Вставь в меня с-свой б-большой т-токен, сэмпай')
 recording = False
 EMOJI_SCREENSHOT = "📸"
 EMOJI_WEBCAM = "🎥"
