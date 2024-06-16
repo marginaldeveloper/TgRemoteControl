@@ -14,8 +14,8 @@ import numpy as np
 import wavio
 from screeninfo import get_monitors as screeninfo
 import urllib.request
-my_id = 6323712252
-bot = telebot.TeleBot('Insert here your fucking token')
+my_id = Введи свой айди, блядь
+bot = telebot.TeleBot('Вставь в меня с-свой б-большой т-токен')
 recording = False
 EMOJI_SCREENSHOT = "📸"
 EMOJI_WEBCAM = "🎥"
