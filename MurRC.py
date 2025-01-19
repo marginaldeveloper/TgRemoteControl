@@ -13,7 +13,7 @@ from PIL import ImageGrab
 from pygetwindow import getWindowsWithTitle
 from aiogram import filters
 
-API_TOKEN = 'your token'
+API_TOKEN = 'вот сюда вставь свой токен'
 bot = Bot(token=API_TOKEN)
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
